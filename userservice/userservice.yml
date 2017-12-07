@@ -19,6 +19,6 @@ security:
   basic:
     enabled: false
     
-server:
+server: 
   port: 8081
  
