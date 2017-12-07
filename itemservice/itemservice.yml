@@ -21,4 +21,7 @@ security:
     
 server:
   port: 8082
+<<<<<<< HEAD
  
+=======
+>>>>>>> fcfccee2ad43e57886bd8c7f0e8dbbd8b520ab3f
