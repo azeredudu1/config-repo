@@ -57,6 +57,6 @@ logging:
   level:
     com.netflix: WARN
     org.springframework.web: WARN
-    com.itemsharing: DEBUG
+    com.itemSharing: DEBUG
  
  
